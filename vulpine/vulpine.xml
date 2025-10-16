@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<race>
+  <info>
+    <name>Vulpine</name>
+    <source>Vulpine</source>
+    <update version="1.0">
+      <file name="vulpine.xml" url="https://raw.githubusercontent.com/YOURUSERNAME/aurora-custom/main/vulpine/vulpine.xml" />
+    </update>
+  </info>
+
+  <description>
+    Fox-like humanoids known for agility, cleverness, and charm.
+  </description>
+
+  <traits>
+    <trait>
+      <name>Ability Score Increase</name>
+      <text>Your Dexterity score increases by 2, and your Charisma score increases by 1.</text>
+    </trait>
+    <trait>
+      <name>Speed</name>
+      <text>Your base walking speed is 35 feet.</text>
+    </trait>
+    <trait>
+      <name>Keen Senses</name>
+      <text>You have proficiency in the Perception skill.</text>
+    </trait>
+    <trait>
+      <name>Fox Agility</name>
+      <text>You can move through the space of any creature that is of a size larger than yours.</text>
+    </trait>
+    <trait>
+      <name>Languages</name>
+      <text>You can speak, read, and write Common and Sylvan.</text>
+    </trait>
+  </traits>
+</race>

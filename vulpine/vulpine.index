@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Vulpine Race</name>
+    <description>Custom fox-like race for Aurora Builder.</description>
+    <author>Your Name</author>
+    <update version="1.0">
+      <file name="vulpine.index" url="https://raw.githubusercontent.com/YOURUSERNAME/aurora-custom/main/vulpine/vulpine.index" />
+    </update>
+  </info>
+  <files>
+    <file name="vulpine.xml" url="https://raw.githubusercontent.com/YOURUSERNAME/aurora-custom/main/vulpine/vulpine.xml" />
+  </files>
+</index>
