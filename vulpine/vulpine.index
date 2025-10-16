@@ -2,7 +2,7 @@
 <index>
   <info>
     <name>Vulpine</name>
-    <description>Custom race: the fox-like Vulpine people.</description>
+    <description>Custom race: Vulpine, fox-like humanoids.</description>
     <author url="https://github.com/felsic-starstruck">felsic-starstruck</author>
     <update version="1.0">
       <file name="vulpine.index" url="https://raw.githubusercontent.com/felsic-starstruck/aurora-custom/main/vulpine/vulpine.index" />
