@@ -5,11 +5,13 @@
     <description>Custom user-created races for Aurora Builder.</description>
     <author url="https://github.com/felsic-starstruck">Krish</author>
     <update version="1.0">
-      <file name="vulpine.index" url="https://raw.githubusercontent.com/felsic-starstruck/aurora-custom/main/vulpine/vulpine.index" />
-    </update>
+  <file name="vulpine.index" url="https://raw.githubusercontent.com/felsic-starstruck/aurora-custom/main/vulpine/vulpine.index" />
+</update>
+
   </info>
 
   <files>
     <file name="Vulpine Race" url="https://raw.githubusercontent.com/felsic-starstruck/aurora-custom/main/vulpine/vulpine.xml" />
   </files>
 </index>
+
