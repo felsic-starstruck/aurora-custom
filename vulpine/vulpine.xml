@@ -3,9 +3,8 @@
   <info>
     <name>Vulpine</name>
     <source>Vulpine</source>
-    <update>
-      <version>1.0</version>
-      <date>2025-10-16</date>
+    <update version="1.0" date="2025-10-16">
+      <file name="Vulpine Race" url="https://raw.githubusercontent.com/felsic-starstruck/aurora-custom/main/vulpine/vulpine.xml" />
     </update>
   </info>
 
